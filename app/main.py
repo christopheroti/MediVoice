@@ -15,10 +15,16 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(title="MediVoice AI API", version="1.0", lifespan=lifespan)
 
-# Restrict origins in production (e.g. your frontend's URL)
+# Only these websites may call the API from a browser.
+ALLOWED_ORIGINS = [
+    "https://medical-ai-gamma.vercel.app",  # production frontend (Vercel)
+    "http://localhost:3000",                # local dev (React/Next.js)
+    "http://localhost:5173",                # local dev (Vite)
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
