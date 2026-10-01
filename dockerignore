@@ -1,0 +1,8 @@
+data/
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+models/confusion_matrix.png
+training_notebook.py
+train_model.py

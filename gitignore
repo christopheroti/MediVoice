@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+# Keep the dataset out of a public repo (may contain sensitive text)
+data/
+# Keep the trained model, ignore plots
+models/*.png

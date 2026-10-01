@@ -1,0 +1,5 @@
+# Only needed locally for training
+-r requirements.txt
+pandas
+matplotlib
+jupyter

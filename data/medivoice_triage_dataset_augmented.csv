@@ -1,0 +1,161 @@
+case_id,text,chief_complaint,triage_level
+1-1,The patient reports sudden crushing chest pain spreading to the left arm with sweating and nausea,Chest pain,high
+1-2,Patient says sudden crushing chest pain spreading to the left arm with sweating and nausea,Chest pain,high
+2-1,The patient reports sudden difficulty breathing with blue lips and oxygen saturation of 84 percent,Difficulty breathing,high
+2-2,Patient says sudden difficulty breathing with blue lips and oxygen saturation of 84 percent,Difficulty breathing,high
+3-1,The patient reports sudden facial drooping with weakness of the right arm and difficulty speaking,Weakness and speech difficulty,high
+3-2,Patient says sudden facial drooping with weakness of the right arm and difficulty speaking,Weakness and speech difficulty,high
+4-1,The patient reports unconscious after collapsing and not responding to voice,Loss of consciousness,high
+4-2,Patient says unconscious after collapsing and not responding to voice,Loss of consciousness,high
+5-1,The patient reports heavy bleeding from a deep wound that will not stop with direct pressure,Uncontrolled bleeding,high
+5-2,Patient says heavy bleeding from a deep wound that will not stop with direct pressure,Uncontrolled bleeding,high
+6-1,The patient reports severe allergic reaction with swelling of the tongue and difficulty breathing,Allergic reaction,high
+6-2,Patient says severe allergic reaction with swelling of the tongue and difficulty breathing,Allergic reaction,high
+7-1,The patient reports convulsions lasting several minutes with failure to regain consciousness,Seizure,high
+7-2,Patient says convulsions lasting several minutes with failure to regain consciousness,Seizure,high
+8-1,The patient reports sudden severe headache followed by vomiting and confusion,Severe headache,high
+8-2,Patient says sudden severe headache followed by vomiting and confusion,Severe headache,high
+9-1,"The patient reports high fever with confusion, stiff neck and marked drowsiness",Fever and confusion,high
+9-2,"Patient says high fever with confusion, stiff neck and marked drowsiness",Fever and confusion,high
+10-1,The patient reports serious burn involving the face with difficulty breathing,Burn injury,high
+10-2,Patient says serious burn involving the face with difficulty breathing,Burn injury,high
+11-1,The patient reports persistent chest pressure with shortness of breath and cold sweating,Chest pressure,high
+11-2,Patient says persistent chest pressure with shortness of breath and cold sweating,Chest pressure,high
+12-1,The patient reports vomiting blood repeatedly with dizziness and fainting,Vomiting blood,high
+12-2,Patient says vomiting blood repeatedly with dizziness and fainting,Vomiting blood,high
+13-1,The patient reports black tarry stool with fainting and rapid heartbeat,Black stool,high
+13-2,Patient says black tarry stool with fainting and rapid heartbeat,Black stool,high
+14-1,The patient reports sudden loss of vision in one eye with weakness on one side,Vision loss,high
+14-2,Patient says sudden loss of vision in one eye with weakness on one side,Vision loss,high
+15-1,The patient reports electric shock followed by loss of consciousness and chest discomfort,Electric shock,high
+15-2,Patient says electric shock followed by loss of consciousness and chest discomfort,Electric shock,high
+16-1,The patient reports major road accident with confusion and uncontrolled bleeding,Trauma,high
+16-2,Patient says major road accident with confusion and uncontrolled bleeding,Trauma,high
+17-1,The patient reports sudden severe abdominal pain with rigid abdomen and fainting,Abdominal pain,high
+17-2,Patient says sudden severe abdominal pain with rigid abdomen and fainting,Abdominal pain,high
+18-1,The patient reports child struggling to breathe with chest pulling in and bluish lips,Breathing difficulty,high
+18-2,Patient says child struggling to breathe with chest pulling in and bluish lips,Breathing difficulty,high
+19-1,The patient reports pregnant patient with heavy vaginal bleeding and dizziness,Pregnancy bleeding,high
+19-2,Patient says pregnant patient with heavy vaginal bleeding and dizziness,Pregnancy bleeding,high
+20-1,The patient reports possible poisoning with reduced consciousness and abnormal breathing,Poisoning,high
+20-2,Patient says possible poisoning with reduced consciousness and abnormal breathing,Poisoning,high
+21-1,The patient reports fever for three days with productive cough and mild shortness of breath,Fever and cough,moderate
+21-2,Patient says fever for three days with productive cough and mild shortness of breath,Fever and cough,moderate
+22-1,The patient reports persistent abdominal pain with vomiting but able to drink fluids,Abdominal pain,moderate
+22-2,Patient says persistent abdominal pain with vomiting but able to drink fluids,Abdominal pain,moderate
+23-1,The patient reports painful urination with fever and lower abdominal discomfort,Urinary symptoms,moderate
+23-2,Patient says painful urination with fever and lower abdominal discomfort,Urinary symptoms,moderate
+24-1,The patient reports worsening asthma symptoms with wheezing but able to speak full sentences,Asthma symptoms,moderate
+24-2,Patient says worsening asthma symptoms with wheezing but able to speak full sentences,Asthma symptoms,moderate
+25-1,The patient reports persistent headache for two days with nausea but no weakness or confusion,Headache,moderate
+25-2,Patient says persistent headache for two days with nausea but no weakness or confusion,Headache,moderate
+26-1,The patient reports diarrhea for two days with weakness but no fainting or blood in stool,Diarrhea,moderate
+26-2,Patient says diarrhea for two days with weakness but no fainting or blood in stool,Diarrhea,moderate
+27-1,The patient reports moderate back pain after lifting a heavy object with no numbness or weakness,Back pain,moderate
+27-2,Patient says moderate back pain after lifting a heavy object with no numbness or weakness,Back pain,moderate
+28-1,The patient reports fever and sore throat making swallowing uncomfortable but breathing is normal,Sore throat,moderate
+28-2,Patient says fever and sore throat making swallowing uncomfortable but breathing is normal,Sore throat,moderate
+29-1,The patient reports skin rash spreading over the body with itching but no breathing difficulty,Skin rash,moderate
+29-2,Patient says skin rash spreading over the body with itching but no breathing difficulty,Skin rash,moderate
+30-1,The patient reports ear pain with fever and reduced hearing for two days,Ear pain,moderate
+30-2,Patient says ear pain with fever and reduced hearing for two days,Ear pain,moderate
+31-1,The patient reports persistent cough for two weeks with night sweats but stable breathing,Persistent cough,moderate
+31-2,Patient says persistent cough for two weeks with night sweats but stable breathing,Persistent cough,moderate
+32-1,The patient reports repeated vomiting since yesterday with signs of mild dehydration,Vomiting,moderate
+32-2,Patient says repeated vomiting since yesterday with signs of mild dehydration,Vomiting,moderate
+33-1,The patient reports painful swollen ankle after a minor injury and difficulty walking,Ankle injury,moderate
+33-2,Patient says painful swollen ankle after a minor injury and difficulty walking,Ankle injury,moderate
+34-1,The patient reports moderate migraine with light sensitivity and previous similar episodes,Migraine,moderate
+34-2,Patient says moderate migraine with light sensitivity and previous similar episodes,Migraine,moderate
+35-1,The patient reports blood sugar reading is high with increased thirst and frequent urination but patient is alert,High blood sugar,moderate
+35-2,Patient says blood sugar reading is high with increased thirst and frequent urination but patient is alert,High blood sugar,moderate
+36-1,The patient reports moderate lower abdominal pain with nausea and reduced appetite,Lower abdominal pain,moderate
+36-2,Patient says moderate lower abdominal pain with nausea and reduced appetite,Lower abdominal pain,moderate
+37-1,The patient reports fever with body aches and headache for two days,Fever and body aches,moderate
+37-2,Patient says fever with body aches and headache for two days,Fever and body aches,moderate
+38-1,"The patient reports wound is red, swollen and painful with a small amount of discharge",Wound infection,moderate
+38-2,"Patient says wound is red, swollen and painful with a small amount of discharge",Wound infection,moderate
+39-1,The patient reports persistent dizziness when standing but no chest pain or loss of consciousness,Dizziness,moderate
+39-2,Patient says persistent dizziness when standing but no chest pain or loss of consciousness,Dizziness,moderate
+40-1,The patient reports moderate tooth pain with facial swelling but normal breathing,Dental pain,moderate
+40-2,Patient says moderate tooth pain with facial swelling but normal breathing,Dental pain,moderate
+41-1,The patient reports mild runny nose and sneezing for one day with normal breathing,Runny nose,low
+41-2,Patient says mild runny nose and sneezing for one day with normal breathing,Runny nose,low
+42-1,The patient reports mild headache after a long day that improves with rest,Mild headache,low
+42-2,Patient says mild headache after a long day that improves with rest,Mild headache,low
+43-1,The patient reports occasional mild heartburn after eating spicy food with no chest pressure or breathing difficulty,Heartburn,low
+43-2,Patient says occasional mild heartburn after eating spicy food with no chest pressure or breathing difficulty,Heartburn,low
+44-1,The patient reports small superficial cut with bleeding that stopped quickly,Minor cut,low
+44-2,Patient says small superficial cut with bleeding that stopped quickly,Minor cut,low
+45-1,The patient reports mild muscle soreness after exercise with normal movement,Muscle soreness,low
+45-2,Patient says mild muscle soreness after exercise with normal movement,Muscle soreness,low
+46-1,The patient reports occasional sneezing and itchy eyes during pollen exposure,Allergy symptoms,low
+46-2,Patient says occasional sneezing and itchy eyes during pollen exposure,Allergy symptoms,low
+47-1,The patient reports mild constipation for two days with no vomiting or severe abdominal pain,Constipation,low
+47-2,Patient says mild constipation for two days with no vomiting or severe abdominal pain,Constipation,low
+48-1,"The patient reports mild tension headache with no vomiting, weakness or vision changes",Tension headache,low
+48-2,"Patient says mild tension headache with no vomiting, weakness or vision changes",Tension headache,low
+49-1,The patient reports small bruise after bumping the arm with minimal pain,Bruise,low
+49-2,Patient says small bruise after bumping the arm with minimal pain,Bruise,low
+50-1,The patient reports mild dry cough for two days with no fever or breathing difficulty,Dry cough,low
+50-2,Patient says mild dry cough for two days with no fever or breathing difficulty,Dry cough,low
+51-1,The patient reports mild sore throat with no fever and normal swallowing and breathing,Mild sore throat,low
+51-2,Patient says mild sore throat with no fever and normal swallowing and breathing,Mild sore throat,low
+52-1,The patient reports mild nausea after eating a large meal with no vomiting or abdominal pain,Nausea,low
+52-2,Patient says mild nausea after eating a large meal with no vomiting or abdominal pain,Nausea,low
+53-1,The patient reports occasional mild lower back stiffness after sitting for several hours,Back stiffness,low
+53-2,Patient says occasional mild lower back stiffness after sitting for several hours,Back stiffness,low
+54-1,The patient reports mild insect bite with local itching and no facial swelling,Insect bite,low
+54-2,Patient says mild insect bite with local itching and no facial swelling,Insect bite,low
+55-1,The patient reports mild tiredness after poor sleep with no other concerning symptoms,Fatigue,low
+55-2,Patient says mild tiredness after poor sleep with no other concerning symptoms,Fatigue,low
+56-1,The patient reports small blister on the foot from new shoes with mild discomfort,Blister,low
+56-2,Patient says small blister on the foot from new shoes with mild discomfort,Blister,low
+57-1,The patient reports mild nasal congestion with clear mucus and no fever,Nasal congestion,low
+57-2,Patient says mild nasal congestion with clear mucus and no fever,Nasal congestion,low
+58-1,The patient reports mild menstrual cramps similar to previous cycles and controlled with rest,Menstrual cramps,low
+58-2,Patient says mild menstrual cramps similar to previous cycles and controlled with rest,Menstrual cramps,low
+59-1,The patient reports mild muscle cramp after exercise that resolves with stretching,Muscle cramp,low
+59-2,Patient says mild muscle cramp after exercise that resolves with stretching,Muscle cramp,low
+60-1,"The patient reports occasional mild indigestion without vomiting, fainting or chest pressure",Indigestion,low
+60-2,"Patient says occasional mild indigestion without vomiting, fainting or chest pressure",Indigestion,low
+61-1,"The patient reports patient reports chest pain after running that stops after resting, with no sweating or fainting",Exertional chest pain,moderate
+61-2,"Patient says patient reports chest pain after running that stops after resting, with no sweating or fainting",Exertional chest pain,moderate
+62-1,The patient reports patient reports pressure in the chest with nausea but normal breathing and stable vital signs,Chest pressure,moderate
+62-2,Patient says patient reports pressure in the chest with nausea but normal breathing and stable vital signs,Chest pressure,moderate
+63-1,The patient reports patient has a mild fever and cough but is eating and drinking normally,Fever and cough,low
+63-2,Patient says patient has a mild fever and cough but is eating and drinking normally,Fever and cough,low
+64-1,The patient reports patient has a high fever with very rapid breathing and increasing confusion,Fever and rapid breathing,high
+64-2,Patient says patient has a high fever with very rapid breathing and increasing confusion,Fever and rapid breathing,high
+65-1,The patient reports patient reports sudden weakness in one leg and difficulty maintaining balance,Sudden weakness,high
+65-2,Patient says patient reports sudden weakness in one leg and difficulty maintaining balance,Sudden weakness,high
+66-1,The patient reports patient reports a mild burning sensation when urinating without fever or back pain,Urinary discomfort,low
+66-2,Patient says patient reports a mild burning sensation when urinating without fever or back pain,Urinary discomfort,low
+67-1,The patient reports patient has diarrhea with blood in the stool and increasing dizziness,Bloody diarrhea,high
+67-2,Patient says patient has diarrhea with blood in the stool and increasing dizziness,Bloody diarrhea,high
+68-1,The patient reports patient has repeated vomiting but remains alert and can take small amounts of fluid,Vomiting,moderate
+68-2,Patient says patient has repeated vomiting but remains alert and can take small amounts of fluid,Vomiting,moderate
+69-1,The patient reports patient has shortness of breath only during strenuous exercise and no symptoms at rest,Exertional breathlessness,moderate
+69-2,Patient says patient has shortness of breath only during strenuous exercise and no symptoms at rest,Exertional breathlessness,moderate
+70-1,The patient reports patient has mild shortness of breath from nasal congestion but oxygen level is normal,Mild breathlessness,low
+70-2,Patient says patient has mild shortness of breath from nasal congestion but oxygen level is normal,Mild breathlessness,low
+71-1,The patient reports patient has a new widespread rash with swelling around the lips but breathing is currently normal,Rash and lip swelling,high
+71-2,Patient says patient has a new widespread rash with swelling around the lips but breathing is currently normal,Rash and lip swelling,high
+72-1,The patient reports patient has mild ankle swelling after standing all day with no chest pain or breathlessness,Ankle swelling,low
+72-2,Patient says patient has mild ankle swelling after standing all day with no chest pain or breathlessness,Ankle swelling,low
+73-1,The patient reports patient has sudden severe abdominal pain with repeated vomiting and inability to keep fluids down,Severe abdominal pain,high
+73-2,Patient says patient has sudden severe abdominal pain with repeated vomiting and inability to keep fluids down,Severe abdominal pain,high
+74-1,The patient reports patient has mild abdominal discomfort after a heavy meal and symptoms are improving,Mild abdominal discomfort,low
+74-2,Patient says patient has mild abdominal discomfort after a heavy meal and symptoms are improving,Mild abdominal discomfort,low
+75-1,The patient reports patient has a headache with fever and neck stiffness and is becoming confused,Headache and fever,high
+75-2,Patient says patient has a headache with fever and neck stiffness and is becoming confused,Headache and fever,high
+76-1,The patient reports patient has a recurring headache similar to previous headaches and no neurological symptoms,Recurring headache,low
+76-2,Patient says patient has a recurring headache similar to previous headaches and no neurological symptoms,Recurring headache,low
+77-1,The patient reports patient has palpitations with fainting during the episode,Palpitations and fainting,high
+77-2,Patient says patient has palpitations with fainting during the episode,Palpitations and fainting,high
+78-1,"The patient reports patient notices occasional brief palpitations with no chest pain, fainting or breathlessness",Mild palpitations,low
+78-2,"Patient says patient notices occasional brief palpitations with no chest pain, fainting or breathlessness",Mild palpitations,low
+79-1,The patient reports patient has a painful wound with fever and rapidly spreading redness,Infected wound,high
+79-2,Patient says patient has a painful wound with fever and rapidly spreading redness,Infected wound,high
+80-1,"The patient reports patient has a small clean wound with no redness, swelling or fever",Minor wound,low
+80-2,"Patient says patient has a small clean wound with no redness, swelling or fever",Minor wound,low
